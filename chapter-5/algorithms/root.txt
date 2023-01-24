@@ -1,0 +1,4 @@
+s = (a + b + c)
+area = sqrt(s(s-a)(s-b)(s-c))
+
+sqrt = square root

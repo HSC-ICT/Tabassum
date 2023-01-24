@@ -1,0 +1,20 @@
+Algorithm --> Calculate small number between two number
+----------
+Step-1: Start
+Step-2: Input A, B
+Step-3: A < B ? if true goto step-4 else goto step-5
+Step-4: Print A
+Step-5: Print B
+Step-6: Stop
+
+
+
+Algorithm --> Calculate large number between two number
+----------
+Step-1: Start
+Step-2: Input A, B
+Step-3: A > B ? if true goto step-4 else goto step-5
+Step-4: Print A
+Step-5: Print B
+Step-6: Stop
+

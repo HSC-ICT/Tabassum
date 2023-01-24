@@ -1,0 +1,72 @@
+AND Operator(&&):
+true && true = true
+true && false = false
+false && true = false
+false && false = false
+
+
+OR Operator(||):
+true || true = true
+true || false = true
+false || true = true
+false || false = false
+
+
+NOT Operator(!):
+!true = false
+
+a = 3, b = 4, c = 5
+
+if(a > b && a > c)
+if(3 > 4 && 3 > 5)
+if(false && false)
+if(0 && 0)
+if(0)
+
+else if(b > a && b > c)
+else if(4 > 3 && 4 > 5)
+else if(true && false)
+else if(1 && 0)
+else if(0)
+
+
+
+a = 7, b = 12, c = 5
+
+if(a > b && a > c)
+if(7 > 12 && 7 > 5)
+if(false && true)
+if(0 && 1)
+if(0)
+
+else if(b > a && b > c)
+else if(12 > 7 && 12 > 5)
+else if(true && true)
+else if(1 && 1)
+else if(1)
+
+
+a = 8, b = 6, c = 10
+
+
+if(a > b)
+if(8 > 6)
+if(true)
+
+if(a > c)
+if(8 > 10)
+if(false)
+
+print(c)
+
+
+a = 8, b = 10, c = 6
+
+if(a > b)
+if(8 > 10)
+if(false)
+
+if(b > c)
+if(10 > 6)
+if(true)
+print(b)

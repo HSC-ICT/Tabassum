@@ -1,0 +1,7 @@
+Algorithm
+----------
+Step-1: Start
+Step-2: Input n
+Step-3: If n % 2 == 0 ? print Even
+Step-4: Else print Odd
+Step-5: Stop

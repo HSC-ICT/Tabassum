@@ -1,0 +1,16 @@
+Algorithm
+----------
+a = 4
+b = 7
+
+a - b = -3
+b - a = 3
+
+large number - small number = positve number
+
+Step-1: Start
+Step-2: Input a, b
+Step-3: if (a > b) ? then sub = a - b
+Step-4: else sub = b - a
+Step-5: Output sub
+Step-6: Stop

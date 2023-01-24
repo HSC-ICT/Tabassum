@@ -1,0 +1,24 @@
+Algorithm --> Large Number between three number
+-----------
+Step-1: Start
+Step-2: Input A, B, C
+Step-3: If A > B and A > C then
+Step-4: Print A
+Step-5: Else if B > A and B > C then
+Step-6: Print B
+Step-7: Else
+Step-8: Print C
+Step-9: Exit
+
+
+Algorithm --> Small Number between three number
+-----------
+Step-1: Start
+Step-2: Input A, B, C
+Step-3: If A < B and A < C then
+Step-4: Print A
+Step-5: Else if B < A and B < C then
+Step-6: Print B
+Step-7: Else
+Step-8: Print C
+Step-9: Exit

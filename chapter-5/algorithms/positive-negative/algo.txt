@@ -1,0 +1,30 @@
+Algorithm
+-----------
+Step-1: Start
+Step-2: Input n
+Step-3: If n > 0 ? if true then go to step 4 else go to step 5
+Step-4: Print n is positive number
+Step-5: Print n is negative number
+Step-6: Stop
+
+
+Algorithm
+-----------
+Step-1: Start
+Step-2: Input n
+Step-3: If n > 0 ? then Print n is positive number
+Step-4: Else Print n is negative number
+Step-5: Stop
+
+
+
+
+
+Algorithm
+----------
+Step-1: Start
+Step-2: Input n
+Step-3: If n > 0 ? Print n is positive number
+Step-4: Else if n < 0 ? Print n is negative number
+Step-5: Else Print n is zero
+Step-6: Stop
