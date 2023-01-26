@@ -1,0 +1,6 @@
+# find a number is even or odd using function
+# find a number is positive or negative[0 hole positive] using function
+# find a year is leap year or not using function
+# print a multiplication table using function where in the main function you have to take input from the user and pass the value to the function call.
+
+Last Time for submission- Tonight: 12:00AM
